@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hotspots | Lab of Microbial Infections and Immunology</title>
+    <link>https://base2007.github.io/category/hotspots/</link>
+      <atom:link href="https://base2007.github.io/category/hotspots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hotspots</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://base2007.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hotspots</title>
+      <link>https://base2007.github.io/category/hotspots/</link>
+    </image>
+    
+    <item>
+      <title>Emergent phases of ecological diversity and dynamics mapped in microcosms</title>
+      <link>https://base2007.github.io/news/hotspots_36201585/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_36201585/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;From tropical forests to gut microbiomes, ecological communities host notably high numbers of coexisting species. Beyond high biodiversity, communities exhibit a range of complex dynamics that are difficult to explain under a unified framework. Using bacterial microcosms, we performed a direct test of theory predicting that simple community-level features dictate emergent behaviors of communities. As either the number of species or the strength of interactions increases, we show that microbial ecosystems transition between three distinct dynamical phases, from a stable equilibrium in which all species coexist to partial coexistence to emergence of persistent fluctuations in species abundances, in the order predicted by theory. Under fixed conditions, high biodiversity and fluctuations reinforce each other. Our results demonstrate predictable emergent patterns of diversity and dynamics in ecological communities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Predicting microbial community dynamics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ecological communities are complex, and their dynamics are difficult to predict. Hu et al. used experimental bacteria communities to show that species richness and the strength of species interactions drive community dynamics (see the Perspective by Huelsmann and Ackermann), as predicted by theory. By manipulating species pool size and nutrient availability (which affects species interactions), the authors found that more complex communities were less stable over time. Furthermore, communities showed distinct phases, shifting from full species coexistence to partial coexistence to dynamic fluctuations as species pool size or interaction strength increased. Communities that fluctuated maintained higher species richness, suggesting that diversity and stability promote one another.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abm7841&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Science Official Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36201585/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Robust rank aggregation for gene list integration and meta-analysis</title>
+      <link>https://base2007.github.io/news/hotspots_22247279/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_22247279/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Motivation:&lt;/strong&gt; The continued progress in developing technological platforms, availability of many published experimental datasets, as well as different statistical methods to analyze those data have allowed approaching the same research question using various methods simultaneously. To get the best out of all these alternatives, we need to integrate their results in an unbiased manner. Prioritized gene lists are a common result presentation method in genomic data analysis applications. Thus, the rank aggregation methods can become a useful and general solution for the integration task.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Standard rank aggregation methods are often ill-suited for biological settings where the gene lists are inherently noisy. As a remedy, we propose a novel robust rank aggregation (RRA) method. Our method detects genes that are ranked consistently better than expected under null hypothesis of uncorrelated inputs and assigns a significance score for each gene. The underlying probabilistic model makes the algorithm parameter free and robust to outliers, noise and errors. Significance scores also provide a rigorous way to keep only the statistically relevant genes in the final list. These properties make our approach robust and compelling for many settings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; All the methods are implemented as a GNU R package ROBUSTRANKAGGREG, freely available at the Comprehensive R Archive Network &lt;a href=&#34;http://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/28/4/573/213339?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Bioinformatics Official Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22247279/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&amp;amp;from_uid=22247279&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all similiar articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;amp;from_uid=22247279&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;See all &amp;ldquo;Cited by&amp;rdquo; articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Enterobacterial LPS-inducible LINC00152 is regulated by histone lactylation and promotes cancer cells invasion and migration</title>
+      <link>https://base2007.github.io/news/hotspots_35959377/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_35959377/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gut microbes participate in pathogenesis by interacting with the host genome through epigenetic mechanisms, such as long non-coding RNAs. However, the mechanisms by which the microbiota induce expression alteration of long non-coding RNAs remains unclear. Here, we quantified the transcriptome alteration of human colon cell lines after being infected by a common enteric pathogen Salmonella typhimurium SL1344. We observed a widespread lncRNAs expression alteration. Among them, the elevated expression of LINC00152 was verified and proved to be induced by enteric bacteria-derived lipopolysaccharide (LPS). The inducible LINC00152 were found to inhibit Salmonella invasion and inflammation response. LINC00152 was overexpressed in tumors of the clinical CRC samples compared with adjacent normal tissues. Accordingly, we also demonstrated that overexpression of LINC00152 promoted the migration and invasion of colorectal cancer cells. Consistently, we observed an increased abundance of gram-negative bacteria and LPS in tumors tissue. Taken together, the above data implicated that enriched gram-negative bacteria in tumor tissue might promote tumor growth through modulating the expression of LINC00152. Furthermore, we demonstrated that LPS upregulated the expression of LINC00152 by introducing histone lactylation on its promoter and decreasing the binding efficiency of the repressor, YY1, to it. Our results provide new insights into how enterobacteria affect host epigenetics in human disease.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fcimb.2022.913815/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Frontiers Official Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35959377/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lung Myofibroblasts Promote Macrophage Profibrotic Activity through Lactate-induced Histone Lactylation</title>
+      <link>https://base2007.github.io/news/hotspots_33074715/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_33074715/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Augmented glycolysis due to metabolic reprogramming in lung myofibroblasts is critical to their profibrotic phenotype. The primary glycolysis byproduct, lactate, is also secreted into the extracellular milieu, together with which myofibroblasts and macrophages form a spatially restricted site usually described as fibrotic niche. Therefore, we hypothesized that myofibroblast glycolysis might have a non-cell autonomous effect through lactate regulating the pathogenic phenotype of alveolar macrophages. Here, we demonstrated that there was a markedly increased lactate in the conditioned media of TGF-β1 (transforming growth factor-β1)-induced lung myofibroblasts and in the BAL fluids (BALFs) from mice with TGF-β1- or bleomycin-induced lung fibrosis. Importantly, the media and BALFs promoted profibrotic mediator expression in macrophages. Mechanistically, lactate induced histone lactylation in the promoters of the profibrotic genes in macrophages, consistent with the upregulation of this epigenetic modification in these cells in the fibrotic lungs. The lactate inductions of the histone lactylation and profibrotic gene expression were mediated by p300, as evidenced by their diminished concentrations in p300-knockdown macrophages. Collectively, our study establishes that in addition to protein, lipid, and nucleic acid molecules, a metabolite can also mediate intercellular regulations in the setting of lung fibrosis. Our findings shed new light on the mechanism underlying the key contribution of myofibroblast glycolysis to the pathogenesis of lung fibrosis.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.atsjournals.org/doi/10.1165/rcmb.2020-0360OC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Am J Respir Cell Mol Biol
+Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33074715/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic regulation of gene expression by histone lactylation</title>
+      <link>https://base2007.github.io/news/hotspots_31645732/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_31645732/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Warburg effect, which originally described increased production of lactate in cancer, is associated with diverse cellular processes such as angiogenesis, hypoxia, polarization of macrophages and activation of T cells. This phenomenon is intimately linked to several diseases including neoplasia, sepsis and autoimmune diseases1,2. Lactate, which is converted from pyruvate in tumour cells, is widely known as an energy source and metabolic by-product. However, its non-metabolic functions in physiology and disease remain unknown. Here we show that lactate-derived lactylation of histone lysine residues serves as an epigenetic modification that directly stimulates gene transcription from chromatin. We identify 28 lactylation sites on core histones in human and mouse cells. Hypoxia and bacterial challenges induce the production of lactate by glycolysis, and this acts as a precursor that stimulates histone lactylation. Using M1 macrophages that have been exposed to bacteria as a model system, we show that histone lactylation has different temporal dynamics from acetylation. In the late phase of M1 macrophage polarization, increased histone lactylation induces homeostatic genes that are involved in wound healing, including Arg1. Collectively, our results suggest that an endogenous ‘lactate clock’ in bacterially challenged M1 macrophages turns on gene expression to promote homeostasis. Histone lactylation thus represents an opportunity to improve our understanding of the functions of lactate and its role in diverse pathophysiological conditions, including infection and cancer.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.nature.com/articles/s41586-019-1678-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Nature Official Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31645732/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>TLR signaling adapter BCAP regulates inflammatory to reparatory macrophage transition by promoting histone lactylation</title>
+      <link>https://base2007.github.io/news/hotspots_33199625/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_33199625/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Macrophages respond to microbial ligands and various noxious cues by initiating an inflammatory response aimed at eliminating the original pathogenic insult. Transition of macrophages from a proinflammatory state to a reparative state, however, is vital for resolution of inflammation and return to homeostasis. The molecular players governing this transition remain poorly defined. Here, we find that the reparative macrophage transition is dictated by B-cell adapter for PI3K (BCAP). Mice harboring a macrophage-specific deletion of BCAP fail to recover from and succumb to dextran sulfate sodium-induced colitis due to prolonged intestinal inflammation and impaired tissue repair. Following microbial stimulation, gene expression in WT macrophages switches from an early inflammatory signature to a late reparative signature, a process that is hampered in BCAP-deficient macrophages. We find that absence of BCAP hinders inactivation of FOXO1 and GSK3β, which contributes to their enhanced inflammatory state. BCAP deficiency also results in defective aerobic glycolysis and reduced lactate production. This translates into reduced histone lactylation and decreased expression of reparative macrophage genes. Thus, our results reveal BCAP to be a critical cell-intrinsic switch that regulates transition of inflammatory macrophages to reparative macrophages by imprinting epigenetic changes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Macrophages initiate inflammation to eliminate invading microbes. Following clearance of inflammatory stimuli, macrophages down-regulate inflammatory genes and express repair genes to protect host tissues from damage. Here, we find that the adaptor B-cell adapter for PI3K (BCAP) facilitates this transition of inflammatory macrophages to reparative macrophages. Absence of BCAP in macrophages limits the ability of mice to repair intestinal tissues following inflammatory damage. Following Toll-like receptor stimulation, macrophages undergo aerobic glycolysis that results in lactate production, a process compromised in BCAP-deficient macrophages. This lactate is incorporated into histone tails and is involved in reparative macrophage transition. We find defective lactate production by BCAP-deficient macrophages results in reduced histone lactylation and expression of tissue repair genes, thus blunting their reparative transition.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2009778117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PNAS Official Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33199625/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Copper induces cell death by targeting lipoylated TCA cycle proteins</title>
+      <link>https://base2007.github.io/news/04_hotspots_example/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/04_hotspots_example/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Copper is an essential cofactor for all organisms, and yet it becomes toxic if concentrations exceed a threshold maintained by evolutionarily conserved homeostatic mechanisms. How excess copper induces cell death, however, is unknown. Here, we show in human cells that copper-dependent, regulated cell death is distinct from known death mechanisms and is dependent on mitochondrial respiration. We show that copper-dependent death occurs by means of direct binding of copper to lipoylated components of the tricarboxylic acid (TCA) cycle. This results in lipoylated protein aggregation and subsequent iron-sulfur cluster protein loss, which leads to proteotoxic stress and ultimately cell death. These findings may explain the need for ancient copper homeostatic mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Copper induces cell death&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cell death is an essential, finely tuned process that is critical for the removal of damaged and superfluous cells. Multiple forms of programmed and nonprogrammed cell death have been identified, including apoptosis, ferroptosis, and necroptosis. Tsvetkov et al. investigated whether abnormal copper ion elevations may sensitize cells toward a previously unidentified death pathway (see the Perspective by Kahlson and Dixon). By performing CRISPR/Cas9 screens, several genes were identified that could protect against copper-induced cell killing. Using genetically modified cells and a mouse model of a copper overload disorder, the researchers report that excess copper promotes the aggregation of lipoylated proteins and links mitochondrial metabolism to copper-dependent death.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abf0529&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Science Official Website&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35298263/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.science.org/doi/10.1126/science.abq4855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Erratum for the Research Article&lt;/strong&gt;&lt;/a&gt; can also be found.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&amp;amp;from_uid=35298263&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all similiar articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;amp;from_uid=35298263&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;See all &amp;ldquo;Cited by&amp;rdquo; articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

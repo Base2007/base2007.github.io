@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home WANG | Lab of Microbial Infections and Immunology</title>
+    <link>https://base2007.github.io/author/home-wang/</link>
+      <atom:link href="https://base2007.github.io/author/home-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home WANG</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://base2007.github.io/author/home-wang/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Home WANG</title>
+      <link>https://base2007.github.io/author/home-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

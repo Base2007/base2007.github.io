@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares | Lab of Microbial Infections and Immunology</title>
+    <link>https://base2007.github.io/category/softwares/</link>
+      <atom:link href="https://base2007.github.io/category/softwares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://base2007.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Softwares</title>
+      <link>https://base2007.github.io/category/softwares/</link>
+    </image>
+    
+    <item>
+      <title>Softwares mmay be used during research works</title>
+      <link>https://base2007.github.io/resources/softwares/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/resources/softwares/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;NO. 1:&lt;/strong&gt; 
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;The R Project for Statistical Computing can be &lt;a href=&#34;https://cran.r-project.org/mirrors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Download here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/bin/windows/Rtools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Rtools&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;RStudio&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; are hepful and friendly supplement for R and can be downloaded by click the names.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NO. 2:&lt;/strong&gt; 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;em&gt;Download Python&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/softwares/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Softwares &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/resources/&#34; &gt;
+      Alternative to Online Resources &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

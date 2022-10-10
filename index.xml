@@ -133,6 +133,34 @@
     </item>
     
     <item>
+      <title>Integrative pathway enrichment analysis of multivariate omics data</title>
+      <link>https://base2007.github.io/news/hotspots_32024846/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://base2007.github.io/news/hotspots_32024846/</guid>
+      <description>&lt;p&gt;ActivePathways is an integrative method.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multi-omics datasets represent distinct aspects of the central dogma of molecular biology. Such high-dimensional molecular profiles pose challenges to data interpretation and hypothesis generation. ActivePathways is an integrative method that discovers significantly enriched pathways across multiple datasets using statistical data fusion, rationalizes contributing evidence and highlights associated genes. As part of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium, which aggregated whole genome sequencing data from 2658 cancers across 38 tumor types, we integrated genes with coding and non-coding mutations and revealed frequently mutated pathways and additional cancer genes with infrequent mutations. We also analyzed prognostic molecular pathways by integrating genomic and transcriptomic features of 1780 breast cancers and highlighted associations with immune response and anti-apoptotic signaling. Integration of ChIP-seq and RNA-seq data for master regulators of the Hippo pathway across normal human tissues identified processes of tissue regeneration and stem cell regulation. ActivePathways is a versatile method that improves systems-level understanding of cellular organization in health and disease through integration of multiple molecular datasets and pathway.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;strong&gt;Download Research Article&lt;/strong&gt; from &lt;a href=&#34;https://www.nature.com/articles/s41467-019-13983-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Nature Communications&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32024846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;PubMed&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Click to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&amp;amp;from_uid=32024846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;see all similiar articles&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on PubMed.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/category/hotspots/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;&lt;font color=&#39;white&#39;&gt; &amp;lt; Back to Hotsopts &lt;/font&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://base2007.github.io/news/&#34; &gt;
+      Alternative to News List &lt;i class=&#34;fas fa-angle-right&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Emergent phases of ecological diversity and dynamics mapped in microcosms</title>
       <link>https://base2007.github.io/news/hotspots_36201585/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
